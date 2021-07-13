@@ -1,4 +1,5 @@
 # CAE Note
+日誌：https://docs.google.com/spreadsheets/d/1ArIBh30HEnP-rnfc4UV4wQSXfTIpktTMKBO_XVyrRoM/edit?usp=sharing
 ## Day1
 ### 計畫說明
 1. 3個部分
@@ -78,8 +79,10 @@ VR開發軟體 了解參數 錯區行為變化
 <br>
 
 ## Day7
-### 開會重點
-
+### 筆記
 1. 問題：
 connectivity意思
 文字檔意思
+2. 推薦的UI material:
+https://game-icons.net/tags/gui.html 
+https://www.freepik.com
