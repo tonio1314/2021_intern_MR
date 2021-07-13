@@ -64,8 +64,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\BackgroundMusic.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
-    <Compile Include="Assets\Script\SoundChange.cs" />
+    <Compile Include="Assets\Script\SoundManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/tonylee/Desktop/CAE/GameProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
