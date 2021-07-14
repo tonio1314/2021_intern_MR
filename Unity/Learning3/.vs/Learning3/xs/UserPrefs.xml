@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{472110E5-703D-05A0-7A5E-D087B2239788}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/staticvariable.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Column.cs">
     <Files>
-      <File FileName="Assets/Scenes/script/CameraFollow.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/script/CameManager.cs" Line="7" Column="21" />
       <File FileName="Assets/script/CameraFollow.cs" Line="6" Column="22" />
-      <File FileName="Assets/script/Column.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Column.cs" Line="83" Column="67" />
       <File FileName="Assets/script/staticvariable.cs" Line="19" Column="35" />
     </Files>
     <Pads>
@@ -13,7 +11,7 @@
           <Node name="Learning3" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="script" expanded="True">
-                <Node name="staticvariable.cs" selected="True" />
+                <Node name="Column.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -23,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="409c8fa5-a1ce-4c75-9ea8-ceb507f42486" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36489612-033a-4c97-859b-0f9b0cacd93a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

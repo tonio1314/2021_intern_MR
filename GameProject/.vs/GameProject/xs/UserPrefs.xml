@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{83BE2866-0A53-71D6-C680-423D67BBAD46}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SoundManager.cs">
     <Files>
-      <File FileName="Assets/Script/SoundChange.cs" Line="21" Column="38" />
-      <File FileName="Assets/Script/SoundManager.cs" Line="50" Column="27" />
+      <File FileName="Assets/Script/SoundManager.cs" Line="34" Column="23" />
+      <File FileName="Assets/Script/BackgroundMusic.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="49d7ad5a-f6b6-444d-9c0c-8340a43b6f31" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36489612-033a-4c97-859b-0f9b0cacd93a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

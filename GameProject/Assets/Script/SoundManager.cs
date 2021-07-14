@@ -11,7 +11,7 @@ public class SoundManager : MonoBehaviour
 
     void Start()
     {
-        if(!PlayerPrefs.HasKey("muted"))
+        if(!PlayerPrefs.HasKey("muted")) // HasKey is a bool.
         {
             PlayerPrefs.SetInt("muted", 0);
             Load();

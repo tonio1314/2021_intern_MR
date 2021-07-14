@@ -38,7 +38,8 @@ public class Column : MonoBehaviour
         
         source = GetComponent<AudioSource>(); 
 
-        // Connectivity
+        // Connectivity 上下兩端加板，避免應力集中
+
         StreamReader streamreaderConn =
             new StreamReader (@"/Users/tonylee/Desktop/Column" + @"/BC"+ boundarycondition + @"/Sec"+ section +@"/L"+ length +@"/BR"+ bracing +@"/Connectivity.txt", Encoding.Default);
         string string1 = streamreaderConn.ReadLine();
@@ -74,15 +75,12 @@ public class Column : MonoBehaviour
         while (string3 != null)
         {
             string4 = string3.Split(',');
-            float a = float.Parse(string4[0]);
-            float b = float.Parse(string4[1]);
-            float c = float.Parse(string4[2]);
 
-            //CultureInfo providers = new CultureInfo("en-US");
-            //NumberStyles styles = NumberStyles.Float;
-            //float a = Single.Parse(s4[0], styles, providers);
-            //float b = Single.Parse(s4[1], styles, providers);
-            //float c = Single.Parse(s4[2], styles, providers);
+            CultureInfo providers = new CultureInfo("en-US");
+            NumberStyles styles = NumberStyles.Float;
+            float a = Single.Parse(string4[0], styles, providers);
+            float b = Single.Parse(string4[1], styles, providers);
+            float c = Single.Parse(string4[2], styles, providers);
 
             newVertices[k] = new Vector3(a, c, b);
             k++;
@@ -158,15 +156,11 @@ public class Column : MonoBehaviour
         {
             string4 = string3.Split(',');
 
-            float a = float.Parse(string4[0]);
-            float b = float.Parse(string4[1]);
-            float c = float.Parse(string4[2]);
-
-            //CultureInfo providers = new CultureInfo("en-US");
-            //NumberStyles styles = NumberStyles.Float;
-            //float a = Single.Parse(s4[0], styles, providers);
-            //float b = Single.Parse(s4[1], styles, providers);
-            //float c = Single.Parse(s4[2], styles, providers);
+            CultureInfo providers = new CultureInfo("en-US");
+            NumberStyles styles = NumberStyles.Float;
+            float a = Single.Parse(string4[0], styles, providers);
+            float b = Single.Parse(string4[1], styles, providers);
+            float c = Single.Parse(string4[2], styles, providers);
 
             vertices[k] = new Vector3(a, c, b);
 
