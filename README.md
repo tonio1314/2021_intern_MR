@@ -92,5 +92,5 @@ connectivity意思
 
 ## Day8
 ### 筆記
-1.音樂素材網站：https://www.chosic.com
-2.
+1. 音樂素材網站：https://www.chosic.com
+2. 
