@@ -84,5 +84,13 @@ VR開發軟體 了解參數 錯區行為變化
 connectivity意思
 文字檔意思
 2. 推薦的UI material:
-https://game-icons.net/tags/gui.html 
-https://www.freepik.com
+(1)https://game-icons.net/tags/gui.html 
+(2)https://www.freepik.com
+
+
+<br>
+
+## Day8
+### 筆記
+1.音樂素材網站：https://www.chosic.com
+2.
