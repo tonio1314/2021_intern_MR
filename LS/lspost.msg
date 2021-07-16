@@ -1,4 +1,4 @@
-Time to read keyword file = 0.145 seconds
+Time to read keyword file = 0.054 seconds
 Warning - SET_NODE 1 not found:
   Referenced in *BOUNDARY_PRESCRIBED_MOTION_SET ID = 1
 Warning - SET_NODE 1 not found:
