@@ -94,3 +94,12 @@ connectivity意思
 ### 筆記
 1. 音樂素材網站：https://www.chosic.com
 2. 
+
+<br>
+
+## Day10
+### 開會重點
+1. 管理進度：https://docs.google.com/spreadsheets/d/1MvZM4IOeQ6I9y2AiBVXjqRHDdmeO4yeHYwQDfGhVSz0/edit?usp=sharing
+2. 初步分工
+3. 下週五第一次報告，要有ppt
+4. 
